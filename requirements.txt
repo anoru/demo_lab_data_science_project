@@ -5,6 +5,7 @@
 black
 lint
 isort
+numpy
 
 setuptools
 wheel
