@@ -2,7 +2,7 @@ name: Python package
 
 on: 
   push:
-    branches: ["feature_**"]
+    branches: ["feature-**"]
     tags-ignore:
       - '**' # Just ignore all tags.
 
